@@ -1,0 +1,34 @@
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.deps.json
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.runtimeconfig.json
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.runtimeconfig.dev.json
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.dll
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.pdb
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.dll
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.pdb
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.csprojAssemblyReference.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.RazorAssemblyInfo.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.RazorAssemblyInfo.cs
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.RazorTargetAssemblyInfo.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.csproj.CopyComplete
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.dll
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.pdb
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.deps.json
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.runtimeconfig.json
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.runtimeconfig.dev.json
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.dll
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApiAdoNet.pdb
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.dll
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.pdb
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.csprojAssemblyReference.cache
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.RazorAssemblyInfo.cache
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.RazorAssemblyInfo.cs
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.AssemblyInfoInputs.cache
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.AssemblyInfo.cs
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.RazorTargetAssemblyInfo.cache
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.csproj.CopyComplete
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.dll
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApiAdoNet\obj\Debug\netcoreapp2.2\WebApiAdoNet.pdb

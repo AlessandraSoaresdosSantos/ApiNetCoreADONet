@@ -1,0 +1,27 @@
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.deps.json
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.runtimeconfig.json
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.runtimeconfig.dev.json
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.dll
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.pdb
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.csprojAssemblyReference.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.RazorAssemblyInfo.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.RazorAssemblyInfo.cs
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.RazorTargetAssemblyInfo.cache
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.dll
+C:\Users\Alessandra\source\repos\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.pdb
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.deps.json
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.runtimeconfig.json
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.runtimeconfig.dev.json
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.dll
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\bin\Debug\netcoreapp2.2\WebApidonNet.ORM.pdb
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.csproj.CoreCompileInputs.cache
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.RazorAssemblyInfo.cache
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.RazorAssemblyInfo.cs
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.AssemblyInfoInputs.cache
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.AssemblyInfo.cs
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.RazorTargetAssemblyInfo.cache
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.dll
+C:\Users\asantos\OneDrive - Cisa Trading\Desktop\Ale\ORM\ApiNetCoreADONet\WebApidonNet.ORM\obj\Debug\netcoreapp2.2\WebApidonNet.ORM.pdb
